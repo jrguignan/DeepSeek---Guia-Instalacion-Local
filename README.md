@@ -55,35 +55,36 @@ Para el modelo R1, hay varios submodelos que varian en la cantidad de parámetro
 1.- ir al siguiente link [ollama](https://ollama.com/download/windows), descargar e instalar el programa. 
 
 <p align="center">
-<img src="images/ollama1.jpeg"  height=350>
+<img src="images/ollama1.jpg"  height=350>
 </p>
 
 2.- Escoger el modelo a descargar en la siguiente [página](https://ollama.com/library/deepseek-r1), escoger el modelo a descargar y 
-copiar el comando de descarga que aparece arriba a la derecha ** ollama run deepseek-r1:1.5b ** 
+copiar el comando de descarga que aparece arriba a la derecha **ollama run deepseek-r1:1.5b** 
 
  <p align="center">
-<img src="images/ollama2.jpeg"  height=350>
+<img src="images/ollama2.jpg"  height=350>
 </p>
 
 3 - Ejecutar ollama en un command prompt con el comando ollama 
 <p align="center">
-<img src="images/ollama3.jpeg"  height=350>
+<img src="images/ollama3.jpg"  height=350>
 </p>
 
-y luego pegar "ollama run deepseek-r1:1.5b" para descargar
+y luego pegar **ollama run deepseek-r1:1.5b** para descargar
  el modelo más liviano en mi caso.
 
  <p align="center">
-<img src="images/ollama4.jpeg"  height=350>
+<img src="images/ollama4.jpg"  height=350>
 </p>
 
 4 .- Para usar una interface más amigable se puede descargar el pluging 
-[page assist](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1)(link para c)
+[page assist](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1)(link para chrome). 
+Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
 
 
 # Página DeepSeek
 
-[deepseek](https://www.deepseek.com/)
+[www.deepseek.com](https://www.deepseek.com/)
 
 Es necesario registrarse en la pagina. Ya en la pagina se puede acceder al modelo R1 y se pueden obtener las
  credenciales para su api a un precio mas bajo que el OpenAI.
@@ -100,7 +101,7 @@ Esto nos da una pequeña cucharada de lo que nos depara el futuro en modelos de 
 
 
  <p align="center">
-<img src="images/ollama5.jpeg"  height=500>
+<img src="images/ollama5.jpg"  height=500>
 </p>
 
 

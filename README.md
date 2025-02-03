@@ -50,6 +50,8 @@ Para el modelo R1, hay varios submodelos que varian en la cantidad de parámetro
 * 671b pesa 404.0 Gb
 
 
+<br>[Volver al Índice](#Índice)
+
 # Instalación con ollama
 
 1.- ir al siguiente link [ollama](https://ollama.com/download/windows), descargar e instalar el programa. 
@@ -74,13 +76,15 @@ y luego pegar **ollama run deepseek-r1:1.5b** para descargar
  el modelo más liviano en mi caso.
 
  <p align="center">
-<img src="images/ollama4.jpg"  height=350>
+<img src="images/ollama4.jpg"  height=180>
 </p>
 
 4 .- Para usar una interface más amigable se puede descargar el pluging 
 [page assist](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1)(link para chrome). 
 Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
 
+
+<br>[Volver al Índice](#Índice)
 
 # Página DeepSeek
 
@@ -96,15 +100,13 @@ Es necesario registrarse en la pagina. Ya en la pagina se puede acceder al model
 
 De esta lista (2 3 4 8 6 7 ) de números cuales son numeros primos?
 
-Si bien es un modelo que aun tiene errores, no deja de ser impresionante el nivel que tiene y que se puede correr en local. 
-Esto nos da una pequeña cucharada de lo que nos depara el futuro en modelos de LLM.
-
-
  <p align="center">
-<img src="images/ollama5.jpg"  height=500>
+<img src="images/ollama5.jpg"  height=650>
 </p>
 
 
+Si bien es un modelo que aun tiene errores, no deja de ser impresionante el nivel que tiene y que se puede correr en local. 
+Esto nos da una pequeña cucharada de lo que nos depara el futuro en modelos de LLM.
 
 
 

@@ -1,9 +1,10 @@
 # Guía de Instalación de DeepSeek R1 en local
 
 <p align="center">
-<img src="images/deepseek.jpeg"  height=400>
+<img src="images/deepseek.jpeg"  height=350>
 </p>
 
+*Nota:* Este repositorio se terminó de crear el 04/02/2025.
 
 # Índice
 
@@ -14,6 +15,7 @@
 * [Instalación con LLM Studio](#Instalación-con-LLM-Studio) 
 
 * [Página DeepSeek](#Página-DeepSeek) 
+
 
 * [Autor](#Autor)
 
@@ -29,13 +31,26 @@ La estrategia de DeepSeek de hacer que sus algoritmos y modelos sean de código 
 
 ## Modelos
 
+Para el modelo R1, hay varios submodelos que varian en la cantidad de parámetros, peso y por ende las capacidades de la maquina a utilizar.
 
-
+* 1.5b pesa 1.1 Gb
+* 7b   pesa 4.7 Gb
+* 8b   pesa 4.9 Gb
+* 14b  pesa 9.0 Gb
+* 32b  pesa 20.0 Gb
+* 70b  pesa 43.0 Gb
+* 671b pesa 404.0 Gb
 
 
 # Instalación con ollama
 
+1.- ir al siguiente link [ollama](https://ollama.com/download/windows), descargar e instalar el programa. 
 
+2.- Escoger el modelo a descargar en la siguiente [página](https://ollama.com/library/deepseek-r1:1.5b) y copiar el comando de descarga que aparece arriba a la derecha * ollama run deepseek-r1:1.5b * 
+
+3 - Ejecutar ollama en una shell con el comando ollama y luego pegar "ollama run deepseek-r1:1.5b" para descargar el modelo mas liviano.
+
+4 .- Para usar una interface más amigable se puede descargar el pluging [page assist](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1)
 
 # Instalación con LLM Studio
 

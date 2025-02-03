@@ -1,7 +1,7 @@
-# Guía de Isntalación de DeepSeek R1 en local para windows
+# Guía de Instalación de DeepSeek R1 en local para windows
 
 <p align="center">
-<img src="images/deepseek.jpg"  height=450>
+<img src="images/deepseek.jpeg"  height=450>
 </p>
 
 
@@ -9,9 +9,9 @@
 
 * [DeepSeek](#DeepSeek)
 
-* [Instalación con ollama](#Instalación con ollama)
+* [Instalación con ollama](#Instalación-con-ollama)
 
-* [Instalación con ollama](#Instalación con ollama) 
+* [Instalación con LLM Studio](#Instalación-con-LLM-Studio) 
 
 * [Pruba ](#Instalación con ollama) 
 

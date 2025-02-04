@@ -76,11 +76,11 @@ y luego pegar **ollama run deepseek-r1:1.5b** para descargar
  el modelo más liviano en mi caso.
 
  <p align="center">
-<img src="images/ollama4.jpg"  height=180>
+<img src="images/ollama4.jpg"  height=150>
 </p>
 
 4 .- Para usar una interface más amigable se puede descargar el pluging 
-[page assist](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1)(link para chrome). 
+[page assist-chrome](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1). 
 Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
 
 
@@ -98,7 +98,7 @@ Es necesario registrarse en la pagina. Ya en la pagina se puede acceder al model
 
 ## Prueba
 
-De esta lista (2 3 4 8 6 7 ) de números cuales son numeros primos?
+De esta lista de números (2 3 4 8 6 7 ) cuales son números primos?
 
  <p align="center">
 <img src="images/ollama5.jpg"  height=650>

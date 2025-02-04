@@ -70,13 +70,13 @@ capacidades de la máquina donde lo instalaremos.
 <img src="images/ollama2.jpg"  height=350>
 </p>
 
-3 - Ejecutar ollama en un command prompt con el comando **ollama** 
+3 - Ejecutar ollama en un command prompt con el comando **ollama**. Te aparecerá la siguiente pantalla: 
 <p align="center">
 <img src="images/ollama3.jpg"  height=350>
 </p>
 
-y luego pegar **ollama run deepseek-r1:1.5b** para descargar
- el modelo más liviano en mi caso. despues de esto ya se puede interactuar con deepseek desde el command prompt
+y luego pegar **ollama run deepseek-r1:1.5b** para descargar. Apareciendo la siguiente pantalla.
+ El modelo más liviano en mi caso. despues de esto ya se puede interactuar con deepseek desde el command prompt
 
  <p align="center">
 <img src="images/ollama4.jpg"  height=150>

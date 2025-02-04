@@ -40,7 +40,7 @@ en el desarrollo de inteligencia artificial.
 
 ## Modelos
 
-Para el modelo R1, hay varios submodelos que varian en la cantidad de parámetros, peso y por ende las capacidades de la maquina
+Para el modelo R1, hay varios submodelos que varían en la cantidad de parámetros, peso y por ende las capacidades de la máquina
  a utilizar.
 
 * 1.5b pesa 1.1 Gb
@@ -63,7 +63,7 @@ Para el modelo R1, hay varios submodelos que varian en la cantidad de parámetro
 </p>
 
 2.- Escoger el modelo a descargar en la siguiente [página](https://ollama.com/library/deepseek-r1), escoger el modelo a descargar y 
-copiar el comando de descarga que aparece arriba a la derecha **ollama run deepseek-r1:1.5b**, se escogerá este en muestro caso por las 
+copiar el comando de descarga que aparece arriba a la derecha **ollama run deepseek-r1:1.5b**, se escogerá este en nuestro caso por las 
 capacidades de la máquina donde lo instalaremos. 
 
  <p align="center">
@@ -76,15 +76,15 @@ capacidades de la máquina donde lo instalaremos.
 </p>
 
 y luego pegar **ollama run deepseek-r1:1.5b** para descargar. Apareciendo la siguiente pantalla.
- El modelo más liviano en mi caso. despues de esto ya se puede interactuar con deepseek desde el command prompt
+ El modelo más liviano en mi caso. después de esto ya se puede interactuar con deepseek desde el command prompt
 
 <p align="center">
 <img src="images/ollama4.jpg"  height=150>
 </p>
 
-4 .- Para usar una interface más amigable se puede descargar el pluging 
+4 .- Para usar una interfaz más amigable se puede descargar el plugin 
 [page assist-chrome](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1). 
-Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
+Para usarlo se debe abrir el plugin y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
 
 <p align="center">
 <img src="images/ollama-a5.jpg"  height=350>
@@ -96,8 +96,8 @@ Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuest
 
 [www.deepseek.com](https://www.deepseek.com/)
 
-Es necesario registrarse en la pagina. Ya en la pagina se puede acceder al modelo R1 y se pueden obtener las
- credenciales para su api a un precio mas bajo que el OpenAI.
+Es necesario registrarse en la página. Ya en la página se puede acceder al modelo R1 y se pueden obtener las
+ credenciales para su API a un precio más bajo que OpenAI.
 
 
 

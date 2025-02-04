@@ -12,6 +12,8 @@
 
 * [Instalación con ollama](#Instalación-con-ollama)
 
+* [Prueba](#Prueba) 
+
 * [Conclusión](#Conclusión) 
 
 * [Página DeepSeek](#Página-DeepSeek) 
@@ -61,19 +63,20 @@ Para el modelo R1, hay varios submodelos que varian en la cantidad de parámetro
 </p>
 
 2.- Escoger el modelo a descargar en la siguiente [página](https://ollama.com/library/deepseek-r1), escoger el modelo a descargar y 
-copiar el comando de descarga que aparece arriba a la derecha **ollama run deepseek-r1:1.5b** 
+copiar el comando de descarga que aparece arriba a la derecha **ollama run deepseek-r1:1.5b**, se escogerá este en muestro caso por las 
+capacidades de la máquina donde lo instalaremos. 
 
  <p align="center">
 <img src="images/ollama2.jpg"  height=350>
 </p>
 
-3 - Ejecutar ollama en un command prompt con el comando ollama 
+3 - Ejecutar ollama en un command prompt con el comando **ollama** 
 <p align="center">
 <img src="images/ollama3.jpg"  height=350>
 </p>
 
 y luego pegar **ollama run deepseek-r1:1.5b** para descargar
- el modelo más liviano en mi caso.
+ el modelo más liviano en mi caso. despues de esto ya se puede interactuar con deepseek desde el command prompt
 
  <p align="center">
 <img src="images/ollama4.jpg"  height=150>
@@ -94,16 +97,17 @@ Es necesario registrarse en la pagina. Ya en la pagina se puede acceder al model
  credenciales para su api a un precio mas bajo que el OpenAI.
 
 
-# Conclusión
 
-## Prueba
+
+# Prueba
 
 De esta lista de números (2 3 4 8 6 7 ) cuales son números primos?
 
  <p align="center">
-<img src="images/ollama5.jpg"  height=650>
+<img src="images/ollama5.jpg"  height=600>
 </p>
 
+# Conclusión
 
 Si bien es un modelo que aun tiene errores, no deja de ser impresionante el nivel que tiene y que se puede correr en local. 
 Esto nos da una pequeña cucharada de lo que nos depara el futuro en modelos de LLM.

@@ -78,7 +78,7 @@ capacidades de la máquina donde lo instalaremos.
 y luego pegar **ollama run deepseek-r1:1.5b** para descargar. Apareciendo la siguiente pantalla.
  El modelo más liviano en mi caso. despues de esto ya se puede interactuar con deepseek desde el command prompt
 
- <p align="center">
+<p align="center">
 <img src="images/ollama4.jpg"  height=150>
 </p>
 
@@ -86,6 +86,9 @@ y luego pegar **ollama run deepseek-r1:1.5b** para descargar. Apareciendo la sig
 [page assist-chrome](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo?pli=1). 
 Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
 
+<p align="center">
+<img src="images/ollama5a.jpg"  height=350>
+</p>
 
 <br>[Volver al Índice](#Índice)
 

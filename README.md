@@ -112,8 +112,13 @@ De esta lista de números (2 3 4 8 6 7 ) cuales son números primos?
 
 # Conclusión
 
-Si bien es un modelo que aun tiene errores, no deja de ser impresionante el nivel que tiene y que se puede correr en local. 
-Esto nos da una pequeña cucharada de lo que nos depara el futuro en modelos de LLM.
+Aunque DeepSeek todavía tiene margen de mejora, su nivel de desempeño 
+es realmente impresionante, especialmente considerando que puede ejecutarse
+ en local. Esto no solo abre nuevas posibilidades para desarrolladores e 
+ investigadores, sino que también nos da un adelanto del futuro de los modelos
+  LLM, donde el acceso a inteligencia artificial avanzada será cada vez más 
+  eficiente, accesible y personalizable. Sin duda, estamos presenciando el inicio
+   de una nueva era en la evolución de la IA.
 
 
 

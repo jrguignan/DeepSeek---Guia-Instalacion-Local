@@ -87,7 +87,7 @@ y luego pegar **ollama run deepseek-r1:1.5b** para descargar. Apareciendo la sig
 Para usarlo se debe abrir el pluging y luego escoger el modelo a utilizar, nuestro caso **deepseek-r1:1.5b**
 
 <p align="center">
-<img src="images/ollama5a.jpg"  height=350>
+<img src="images/ollama-a5.jpg"  height=350>
 </p>
 
 <br>[Volver al Índice](#Índice)
